@@ -6,7 +6,7 @@ You play as a little fish navigating the dangerous open ocean. Your goal is simp
 Swim around to collect as many tasty worms as possible to boost your score, all while outsmarting and escaping two relentless sharks patrolling the waters. One wrong move and it's lunch time!
 
 🕹️ Controls
-Navigate the ocean using the on-screen joystick:
+Navigate the ocean using the on-screen buttons:
 Front (Up): Swim forward / up
 Back (Down): Swim backward / down
 Left: Swim left
